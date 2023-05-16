@@ -1,4 +1,5 @@
-  package feature;
+package feature;
+
 
 public class POCdemo {
 
@@ -6,10 +7,12 @@ public class POCdemo {
 	{
 		System.out.println("Aditya");
 		int i =100;
-    int j =90;
-    System.out.println("Aditya GitHub");
-    
-    
+
+		int j =90;
+		System.out.println("Aditya GitHub");
+
+
+
 
 	}
 
